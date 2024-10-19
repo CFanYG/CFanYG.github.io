@@ -6,25 +6,6 @@ Personal web
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>陈扬</title>
-    <style>
-        .bord{
-            border-bottom: dashed skyblue;
-            margin-top: 1px;
-        }
-        .kj{
-            height: 700px;
-            width: 480px;
-            background-color: ;
-            border-left: solid skyblue;
-            border-right: solid skyblue;
-            border-bottom: solid skyblue;
-            border-top: solid skyblue;
-        }
-        .zt{
-           color: gray; 
-           font-size: 20px;
-        }
-    </style>
 </head>
 <body >
     <div class="kj">
