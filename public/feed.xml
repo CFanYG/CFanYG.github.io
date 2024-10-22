@@ -1,0 +1,64 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+    <title>如云</title>
+    
+    <icon>https://tyzhang.top/img/logo.png</icon>
+     
+    <link href="https://tyzhang.top/feed.xml" rel="self" />
+    
+    <link href="https://tyzhang.top/" rel="hub" />
+    
+    <link href="https://tyzhang.top/" />
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    <id>https://tyzhang.top/</id>
+    
+    <author>
+        <name>张天宇</name>
+        
+        <email>your-email</email>
+        
+    </author>
+    
+    <generator uri="https://hexo.io/">Hexo</generator>
+    <webfeeds:cover image="https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/gFn7zm.JPG" />
+    <webfeeds:icon>https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/VAlBPs.png</webfeeds:icon>
+    <webfeeds:logo>https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/XDzm9G.svg</webfeeds:logo>
+    <webfeeds:accentColor>0abab5</webfeeds:accentColor>
+    <webfeeds:related layout="card" target="browser" />
+    
+    <entry>
+        <title>Hello World</title>
+        <link href="https://tyzhang.top/article/hello-world/" />
+        <id>https://tyzhang.top/article/hello-world/</id>
+        <published>2024-10-19T09:29:53.833Z</published>
+        <updated>1985-10-26T08:15:00.000Z
+        </updated>
+        
+        <content type="html">
+            <![CDATA[ <p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2><span id="quick-start">Quick Start</span></h2><h3><span id="create-a-new-post">Create a new post</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3><span id="run-server">Run server</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3><span id="generate-static-files">Generate static files</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3><span id="deploy-to-remote-sites">Deploy to remote sites</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p> ]]>
+        </content>
+           
+        <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+            
+    </entry>
+    
+    <entry>
+        <title>如云，那就做如云</title>
+        <link href="https://tyzhang.top/article/ruyun/" />
+        <id>https://tyzhang.top/article/ruyun/</id>
+        <published>2019-10-30T16:00:00.000Z</published>
+        <updated>2024-06-03T13:53:57.000Z
+        </updated>
+        
+        <content type="html">
+            <![CDATA[ <h2><span id="如云-hexo-theme-ruyun">如云 / hexo-theme-ruyun</span></h2><p>一个Hexo个人博客主题。</p><p>基于<a href="http://www.huweihuang.com/">胡伟煌</a>移植的<a href="https://github.com/Huxpro/huxpro.github.io">黄玄Jekyll博客主题</a>修改而来。</p><p>我对它进行了一些调整和新增，以便更适合我的口味。</p><h3><span id="修改">🎨 修改</span></h3><ul><li><strong>大道至简</strong>：删除多项不必要的功能插件。</li><li><strong>口味</strong>：主页、文章样式的修改，更简洁直观。</li><li><strong>每天皆不同</strong>：修改文章默认头图为每日必应壁纸，增加<a href="https://hitokoto.cn/api">每日一句</a>、<a href="https://www.jinrishici.com">一诗</a>等widget插件。</li><li><strong>传承</strong>：主要内容的汉化。</li><li><strong>早韭晚菘</strong>：增加网易云音乐作为背景音乐模块，为你的文章、页面配一个更应景的BGM。</li><li><strong>一碗米粉</strong>：放置你自己的公众号二维码，也可以是赞赏码等任何你想的图片。</li><li><strong>一步合法</strong>：一键填写备案网站ICP备案号、公安部备案号。</li></ul><h3><span id="效果">🌈 效果</span></h3><p>我的博客: <a href="https://ztygalaxy.github.io">ztygalaxy</a>，部分插件未启用。</p><h3><span id="用法">🔨 用法</span></h3><p>在<code>_config.yml</code>中配置个人信息。</p><h4><span id="1-替换repo信息">1. 替换Repo信息.</span></h4><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repository:</span> <span class="string">你的Repo名称，如ztygalaxy.github.io</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">master</span></span><br><span class="line">  <span class="attr">message:</span> <span class="string">Update</span> <span class="string">Content</span></span><br></pre></td></tr></table></figure><h4><span id="2-继续客制化">2. 继续客制化.</span></h4><p>通过替换、修改<code>source/img/avatar/ironman.png</code>来配置头像。</p><p>或者修改它的路径：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">sidebar:</span> <span class="literal">true</span>    <span class="comment"># 侧边栏开关.</span></span><br><span class="line"><span class="attr">sidebar-about-description:</span> <span class="string">&quot;你的个人描述&quot;</span></span><br><span class="line"><span class="attr">sidebar-avatar:</span> <span class="string">img/你的头像路径</span></span><br></pre></td></tr></table></figure><p>在<code>widgets</code>下配置侧边栏的部件，使用<code>#</code>关闭。</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">widgets:</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">featured-tags</span><span class="comment"># 标签</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">short-about</span><span class="comment"># 简介</span></span><br><span class="line"><span class="comment">#- recent-posts# 最新文章</span></span><br><span class="line"><span class="comment">#- friends-blog# 友链</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">archive</span><span class="comment"># 归档</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">category</span><span class="comment"># 分类</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">a-sentence</span><span class="comment"># 每日一句</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">a-poem</span><span class="comment"># 每日诗句</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">qrcode</span><span class="comment"># 二维码展示，/img/avatar/qrcode.png</span></span><br></pre></td></tr></table></figure><p>如果你的网站需要放置备案信息，填写<code>icp</code>。</p><p>钢铁侠的回到顶部，可在<code>css/image</code>中替换。</p><p>其他样式和资源文件，可以在浏览器中检查元素到对应文件修改，例如<code>layout</code>文件夹下，它们的名字作用都很明了。</p><h4><span id="3-文章撰写与参数说明">3. 文章撰写与参数说明</span></h4><p>你应该非常熟悉hexo文章的生成撰写，也可以在给出的样例文章基础上修改，参数说明如下。</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: # 文章名称</span><br><span class="line">subtitle:# 子标题</span><br><span class="line">date:# 创建日期</span><br><span class="line">catalog: true# 是否使用目录</span><br><span class="line">header-img:# 头图地址</span><br><span class="line">tags:# 标签</span><br><span class="line">toc<span class="emphasis">_nav_</span>num: true# 是否使用目录</span><br><span class="line">musicid: # 如果需要背景音乐，请填写其网易云id</span><br><span class="line">musicauto: 1# 是否需要自动播放，默认为1</span><br><span class="line"><span class="section">top: 0# 是否需要置顶</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></table></figure><h3><span id="相关">👦 相关</span></h3><p><a href="http://www.huweihuang.com/">胡伟煌的博客</a>    <a href="http://huangxuan.me/">黄玄的博客</a>    <a href="https://ztygalaxy.github.io">张天宇的博客</a></p><p>相关阅读：<a href="http://coderunthings.com/2017/08/20/howhexoworks/">Hexo是怎么工作的</a></p> ]]>
+        </content>
+           
+        <summary type="html">&lt;h2&gt;&lt;span id=&quot;如云-hexo-theme-ruyun&quot;&gt;如云 / hexo-theme-ruyun&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;一个Hexo个人博客主题。&lt;/p&gt;
+&lt;p&gt;基于&lt;a href=&quot;http://www.huweihuang.com/&quot;&gt;胡伟煌&lt;/a&gt;移</summary>
+            
+        <category term="Welcome" scheme="https://tyzhang.top/tags/Welcome/" />
+        
+    </entry>
+    
+</feed>
